@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.icalmaker.com
+BEGIN:VEVENT
+UID:http://www.icalmaker.com/event/a60bed17-8126-43da-9f47-c8487ccbe9a3
+DTSTAMP:20221016T150917Z
+DTSTART:20221103T100000Z
+DTEND:20221016T040000Z
+SUMMARY:Tanksali Family Housewarming
+LOCATION:https://www.google.com/maps/dir/13.2104375,77.5535781/@13.2104375,77.5535781,17z/data=!4m2!4m1!3e0?hl=en
+DESCRIPTION:Remember - you should be on your way to the Tanksali Family Housewarming
+END:VEVENT
+END:VCALENDAR

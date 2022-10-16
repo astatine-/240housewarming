@@ -1,0 +1,9 @@
+.imgfullwidth {
+  width:90%;
+  max-width: 90%;
+}
+
+.maindiv {
+  margin: auto;
+  padding: 2%;
+}
